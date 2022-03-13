@@ -150,6 +150,5 @@ mod tests {
 
         assert_eq!(2, vect_compr.tab[0]);
         assert_eq!(5,vect_compr.tab[1]);
-
     }
 }
